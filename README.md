@@ -15,7 +15,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ## 📊 GitHub Stats
-![Khadijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Khadijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhadijahAl-raidi&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact Me
 📧 Email: alraidi.khadijah@gmail.com  

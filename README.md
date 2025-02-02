@@ -4,7 +4,7 @@
 
 
 ## 🌟 About Me
-- 🚀 Experienced in Laravel 11, Livewire 3, and database optimization.
+- 🚀 Experienced in Laravel , Livewire , and database optimization.
 - 🎯 Currently working on improving API integrations for SMS platforms.
 - 🛠️ Love working with Tailwind CSS to create responsive and beautiful UIs.
 

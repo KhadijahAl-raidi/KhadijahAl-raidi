@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Khadijah Mohammed Alraidi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Full+Stack+Web+Developer;Passionate+About+Coding;Laravel+%7C+Livewire+%7C+Tailwind+CSS)](https://git.io/typing-svg)
 
 🔹 **Full Stack Web Developer** | Laravel, Livewire, Tailwind CSS, SQL Server  
 🔹 Passionate about building scalable APIs & modern web applications  

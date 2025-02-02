@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Khadijah Mohammed Alraidi
 
-<!--
-**KhadijahAl-raidi/KhadijahAl-raidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Full Stack Web Developer** | Laravel, Livewire, Tailwind CSS, SQL Server  
+🔹 Passionate about building scalable APIs & modern web applications  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🚀 Experienced in Laravel 11, Livewire 3, and database optimization.
+- 🎯 Currently working on improving API integrations for SMS platforms.
+- 🛠️ Love working with Tailwind CSS to create responsive and beautiful UIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4A4A4A?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+## 📊 GitHub Stats
+![Khadijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+## 📫 Contact Me
+📧 Email: alraidi.khadijah@gmail.com  
+🌍 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) 
+
